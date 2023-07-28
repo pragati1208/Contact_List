@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
