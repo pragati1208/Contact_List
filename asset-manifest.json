@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//pragati1208.github.io/Contact_List/static/css/main.5037e6e3.css",
+    "main.js": "//pragati1208.github.io/Contact_List/static/js/main.5ebde0cf.js",
+    "index.html": "//pragati1208.github.io/Contact_List/index.html",
+    "main.5037e6e3.css.map": "//pragati1208.github.io/Contact_List/static/css/main.5037e6e3.css.map",
+    "main.5ebde0cf.js.map": "//pragati1208.github.io/Contact_List/static/js/main.5ebde0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5037e6e3.css",
+    "static/js/main.5ebde0cf.js"
+  ]
+}
